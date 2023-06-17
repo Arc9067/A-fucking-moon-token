@@ -19,22 +19,22 @@ const Hero = () => {
         </ul>
         <div className="flex flex-wrap justify-center items-center gap-3 ">
           <a
-            href=""
+            href="https://t.me/afuckingtoken"
             target="_blank"
             className="px-8 btn1 bg-yellow-300 text-black py-4 uppercase text-2xl"
           >
             telegram
           </a>
           <a
-            href=""
+            href="https://twitter.com/AFuckingToken"
             target="_blank"
             className="px-8 btn bg-white text-black py-4 uppercase text-2xl"
           >
             twitter
           </a>
           <a
-            href=""
-            className="px-8 btn bg-transparent border border-black rounded-md py-4 uppercase text-2xl"
+            href="https://dexscreener.com/ethereum/0x6b129cade3259fe1b4e859f979f57fa77ead66e7"
+            className="px-8 btn bg-transparent border border-blackgit  rounded-md py-4 uppercase text-2xl"
           >
             chart
           </a>
